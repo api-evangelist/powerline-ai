@@ -64,5 +64,106 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-powerline-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://powerline.ai/
+Powerline builds AI-accessible APIs that enable agents to interact with real-world services. Their flagship product, Inbox Preview, renders HTML emails across Gmail, Outlook, and Yahoo Mail, providing screenshots without requiring sign‑up. The company focuses on bridging AI models with operational tools, offering free utilities like domain and email header checks. Powerline aims to simplify AI integration for developers and enterprises.
+
+**Areas:** Company · AI · APIs · Automation · Email · Productivity
+
+## powerline-ai on APIs.io
+
+Everything profiled for powerline-ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/powerline-ai/](https://apis.io/providers/powerline-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Powerline MCP API](https://apis.io/apis/powerline-ai/powerline-mcp-api/) — Powerline provides AI-accessible email and DNS utilities via an MCP JSON‑RPC endpoint. Tools include domain health checks, DNS record validation, blacklist…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Powerline Ai Authentication](https://apis.io/security/powerline-ai/powerline-ai-authentication/)
+- [Powerline Ai Domain Security](https://apis.io/security/powerline-ai/powerline-ai-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Powerline Ai Scopes](https://apis.io/scopes/powerline-ai/powerline-ai-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Powerline Ai Plans Pricing](https://apis.io/plans/powerline-ai/powerline-ai-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Powerline Ai Rate Limits](https://apis.io/rate-limits/powerline-ai/powerline-ai-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://powerline.ai/)
+- [Getting started](https://powerline.ai/inbox-preview/)
+- [Terms of service](https://powerline.ai/terms)
+
+## API Evangelist rating
+
+**Kin Score 15.2** — emerging · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 18.9 |
+| Developer ergonomics | 18.3 |
+| Access clarity | 10.5 |
+
+**Agent readiness 11.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 18.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/powerline-ai/](https://apis.io/providers/powerline-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for powerline-ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/powerline-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
